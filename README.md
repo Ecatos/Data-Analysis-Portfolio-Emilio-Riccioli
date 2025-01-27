@@ -1,2 +1,2 @@
-# Data-Analysis-Portfolio-Emilio-Riccioli
+# Data-Analysis-Emilio-Riccioli
 Analytics Portfolio
