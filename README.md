@@ -17,6 +17,10 @@ Sales Data: The primary Dataset used for this analysis is the
 - SQL Server - Data Analysis
 - POwerBI - Creating reports
 
+PER INSERIRE UN IMMAGINE BASTA TRASCINARLA DA FILE WINDOWS QUI DENTRO:
+![1](https://github.com/user-attachments/assets/00cdb764-b082-4978-a19c-a044b8e9fb11)
+
+
 ### Data Cleaning
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
