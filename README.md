@@ -1,4 +1,4 @@
-# PORTOFOLIO EMILIO RICCIOLI
+# PORTFOLIO Emilio Riccioli
 
 ## Istruzioni
 ### Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box qui sopra
