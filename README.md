@@ -4,8 +4,8 @@
 ### Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box qui sopra
 
 ### NB: Le celle di codice possono essere eseguite solamente su Google Colab, il reindirizzamento è possibile:
-  - facendo click sui link forniti sotto (Lista progetti) ![image](https://github.com/user-attachments/assets/8ff9816e-5aba-400d-9b7e-a722ed91509f)
-  - facendo click sul seguente bottone nei file su GitHub
+  - facendo click sui link forniti sotto (Lista progetti) 
+  - facendo click sul seguente bottone nei file su GitHub ![image](https://github.com/user-attachments/assets/8ff9816e-5aba-400d-9b7e-a722ed91509f)
   
 ## Lista progetti
 - [Project Overview](#project-overview)
