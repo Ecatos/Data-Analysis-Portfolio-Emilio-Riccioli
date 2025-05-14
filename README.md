@@ -1,7 +1,8 @@
 # PORTOFOLIO EMILIO RICCIOLI
 
-##Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box qui sopra
-##NB: Le celle di codice possono essere eseguite solamente su Google Colab, il reindirizzamento è possibile:
+#####Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box qui sopra
+
+#####NB: Le celle di codice possono essere eseguite solamente su Google Colab, il reindirizzamento è possibile:
   - facendo click sul seguente bottone 
   - facendo click sui due link forniti sotto (Lista progetti)
 
@@ -10,12 +11,7 @@
 ## Lista progetti
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Reccomendations](#recommendations)
 
-- NB: Le celle di codice possono essere eseguite solamente su Google Colab.
-- Per visualizzare i progetti su GitHub fare click direttamente sui file 
-
-Per eseguire le celle è necessario
 ---
 
 ### Project Overview
