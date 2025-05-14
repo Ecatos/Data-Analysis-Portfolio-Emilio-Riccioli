@@ -13,26 +13,31 @@
 
 ---
 
-### 1. Analisi KPI azienda Retail con Power BI e DAX
-Questo progetto simula la creazione di un report interattivo per visualizzare e monitorare le performance aziendali
+## 1. Analisi KPI azienda Retail con Power BI e DAX
+Questo progetto simula la creazione di un report interattivo per visualizzare e monitorare le performance aziendali [Link]
 
--#### Trasformazione dei Dati
-Utilizzo di Power Query per importare, pulire e trasformare i dati grezzi prima di caricarli nel modello dati
+### Trasformazione dei Dati
+- Utilizzo di Power Query per importare, pulire e trasformare i dati grezzi prima di caricarli nel modello dati
 
--#### Creazione del Data Model
-Costruzione di un modello dati relazionale che rappresenta la struttura dei dati aziendali
+### Creazione del Data Model
+- Costruzione di un modello dati relazionale che rappresenta la struttura dei dati aziendali
 
--#### Calcolo dei KPI con DAX
-Definizione di calcoli e misure Dax per analizzare i Kpi come vendite totali, profitto e margini
+### Calcolo dei KPI con DAX
+- Definizione di calcoli e misure Dax per analizzare i Kpi come vendite totali, profitto e margini
 
--####Sviluppo del Report Power BI
-Creazione di un report interattivo con grafici, tabelle e altri elementi visivi in Power BI Desktop
+### Sviluppo del Report Power BI
+- Creazione di un report interattivo con grafici, tabelle e altri elementi visivi in Power BI Desktop
 
--#### Personalizzazione dell'UI: 
-Aggiunta di filtri, segmentazioni dati e altri elementi per rendere l'interfaccia utente del report più intuitiva
+### Personalizzazione dell'UI: 
+- Aggiunta di filtri, segmentazioni dati e altri elementi per rendere l'interfaccia utente del report più intuitiva
 
-PER INSERIRE UN IMMAGINE BASTA TRASCINARLA DA FILE WINDOWS QUI DENTRO oppure DIRETTAMENTE CTRL-C + CTRL-V:
-![1](https://github.com/user-attachments/assets/00cdb764-b082-4978-a19c-a044b8e9fb11)
+Un report PDF è disponibile su Google Drive. Per una visualizzazione interattiva, è necessario un account Power BI a pagamento
+
+![Screenshot 2025-05-05 095844](https://github.com/user-attachments/assets/f93f5d2d-6c1b-448d-9dd9-e851cfa29703)
+![Screenshot 2025-05-05 100456](https://github.com/user-attachments/assets/7921fd7e-7389-4db1-900e-06924ff0713f)!
+
+
+
 
 
 ### Data Cleaning
