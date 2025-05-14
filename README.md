@@ -7,7 +7,7 @@
 
 
 
-## Lista progetti (dai seguenti link verrà indirizzati ai notebook su Google Colab)
+## Lista progetti
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Reccomendations](#recommendations)
