@@ -1,7 +1,7 @@
 # Portfolio Emilio Riccioli
 
 ## Istruzioni
-### Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box qui sopra
+### Per visualizzare i progetti su GitHub fare click direttamente sui file .ipynb nel box in alto
 
 ### NB: Le celle di codice possono essere eseguite solamente su Google Colab, il reindirizzamento è possibile:
   - facendo click sui link forniti sotto (Lista progetti) 
