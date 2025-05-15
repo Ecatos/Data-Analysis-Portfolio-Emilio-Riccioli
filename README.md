@@ -40,7 +40,7 @@ Un report PDF è disponibile su Google Drive. Per una visualizzazione interattiv
 ---
 
 ## 2. EDA sondaggio sviluppatori con Python e Looker Studio
-Il progetto simula l'utilizzo di Python e Looker Studio per l'analisi dati di un sondaggio in modo efficace [Link](https://github.com/Ecatos/Data-Analysis-Portfolio-Emilio-Riccioli/blob/main/Analisi%20KPI%20azienda%20Retail%20con%20Power%20BI%20e%20DAX.ipynb)
+Il progetto simula l'utilizzo di Python e Looker Studio per l'analisi dati di un sondaggio in modo efficace [Link](https://github.com/Ecatos/Data-Analysis-Portfolio-Emilio-Riccioli/blob/main/EDA%20sviluppatori%20con%20Python%20e%20Looker%20Studio.ipynb)
 
 ### Raccolta dati
 - Uso di requests per scaricare il codice HTML di una pagina web contenente informazioni sugli stipendi degli sviluppatori
