@@ -8,8 +8,8 @@
   - facendo click sul seguente bottone nei file su GitHub ![image](https://github.com/user-attachments/assets/8ff9816e-5aba-400d-9b7e-a722ed91509f)
   
 ## Lista progetti
-- [Analisi KPI azienda Retail con Power BI e DAX](https://colab.research.google.com/drive/13Pq7wm-UEN3BVtcmw64K__1LhvQY3McI#scrollTo=4ZIxfluijMDs)
-- [Data Sources](#data-sources)
+- [Analisi KPI azienda Retail con Power BI e DAX](https://colab.research.google.com/drive/13Pq7wm-UEN3BVtcmw64K__1LhvQY3McI)
+- [EDA sondaggio sviluppatori con Python e Looker Studio](https://colab.research.google.com/drive/1Zn6lHMml5NfWEw0zrAClljIavDhoDBi-)
 
 ---
 
