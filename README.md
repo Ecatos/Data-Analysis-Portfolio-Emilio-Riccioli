@@ -14,7 +14,7 @@
 ---
 
 ## 1. Analisi KPI azienda Retail con Power BI e DAX
-Questo progetto simula la creazione di un report interattivo per visualizzare e monitorare le performance aziendali [Link]
+Questo progetto simula la creazione di un report interattivo per visualizzare e monitorare le performance aziendali [Link](https://github.com/Ecatos/Data-Analysis-Portfolio-Emilio-Riccioli/blob/main/Analisi%20KPI%20azienda%20Retail%20con%20Power%20BI%20e%20DAX.ipynb)
 
 ### Trasformazione dei Dati
 - Utilizzo di Power Query per importare, pulire e trasformare i dati grezzi prima di caricarli nel modello dati
